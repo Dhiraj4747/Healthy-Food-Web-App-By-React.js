@@ -1,0 +1,11 @@
+.boss{
+   background-color: aqua;
+   margin-top: 5%;
+   margin-left: 30%;
+   margin-right: 30%;
+   padding-left: 15%;
+}
+
+.button{
+   float: right;
+}
